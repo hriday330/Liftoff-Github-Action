@@ -2,6 +2,8 @@
 
 This is a workshop to learn how to use Github Actions. Github Actions is a CI/CD tool that allows you to automate your workflow. It's a convenient way to build, test, and deploy your code.
 
+Random line added LOL
+
 ## Useful terms
 
 - **Workflow**: A workflow is a configurable automated process made up of one or more jobs. You must create a YAML file to define your workflow configuration.
